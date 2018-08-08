@@ -7,7 +7,7 @@ public class Demo {
 	}
 
 	public static int somethingRandom() {
-		if(Math.random() < 1.1) {
+		if(Math.random() < 0.0) {
 			return 0;
 		}
 		else {
